@@ -1,0 +1,1 @@
+In this project, I will be creating and manipulating HTML pages and CSS files. I will be creating everything from scratch. Also I will be working with DevTools on Google Chrome to get more knonwledge about the subject. If you want to know where I am learning this go to From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
